@@ -28,7 +28,7 @@ A dark-themed **Daily Habit Tracker** built using **Python** and **Streamlit** t
 
 ---
 
-## 📂 Project Structure
+
 
 
 
